@@ -97,7 +97,7 @@ transform:rotateY(0deg);
 }
 @font-face {
   font-family: bday;
-  src:url(font/bday.ttf);
+  src:url(bday.ttf);
 }
 .btna{
   align-items: center;
